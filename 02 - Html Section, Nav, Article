@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="two.css">
+    <link rel="icon"  href="Picturess/Mag.webp">
+    <title>Nav Practice</title>
+</head>
+<body>
+
+<header>
+    <div class="Top">
+          <h1>Sculpen Presents</h1>
+    </div>
+</header>
+
+<main>
+<nav class="navbar">
+  <ul>
+    <li><a href="https://www.youtube.com/watch?v=f3uCSh6LIY0&list=PLZPZq0r_RZOOxqHgOzPyCzIl4AJjXbCYt&index=31">Kamusta ka nmn</a></li>
+    <li><a href="https://www.facebook.com/reel/1812122300133483">Lab Ba ka Nya</a></li>
+    <li><a href="https://www.facebook.com/reel/1642872544070081">O Dili Man</a></li>
+    <li><a href="https://www.facebook.com/reel/1640946484366193">Tarantadoo</a></li>
+  </ul>
+</nav>
+<div class="container">
+<div class="Rotate"></div>
+<div class="Skew"></div>
+<div class="scale"></div>
+</div>
+
+<article>
+  <h1>Hello</h1>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, deserunt ipsam nostrum modi sed officiis libero, eius numquam aliquid eligendi, nobis maxime expedita voluptatibus animi amet doloremque corrupti molestias nam?</p>
+</article>
+<article>
+  <h1>Hello</h1>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, deserunt ipsam nostrum modi sed officiis libero, eius numquam aliquid eligendi, nobis maxime expedita voluptatibus animi amet doloremque corrupti molestias nam?</p>
+</article>
+
+<section>
+    <h1>Garotee</h1>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ea optio quae repudiandae sapiente et a pariatur fugit harum placeat assumenda nulla possimus ratione quaerat, soluta aut maiores hic libero officiis.</p>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatum sit deleniti beatae maxime dolores, expedita, aliquam, nostrum perferendis doloribus accusamus ducimus fuga nobis consequuntur eligendi culpa voluptas a sint quibusdam?</p>
+</section>
+
+<section>
+    <h1>Garotee</h1>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ea optio quae repudiandae sapiente et a pariatur fugit harum placeat assumenda nulla possimus ratione quaerat, soluta aut maiores hic libero officiis.</p>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatum sit deleniti beatae maxime dolores, expedita, aliquam, nostrum perferendis doloribus accusamus ducimus fuga nobis consequuntur eligendi culpa voluptas a sint quibusdam?</p>
+</section>
+
+</main>
+
+
+</body>
+</html>
