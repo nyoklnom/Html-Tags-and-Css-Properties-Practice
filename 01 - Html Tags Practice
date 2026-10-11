@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- This Is Favicon -->
+    <link rel="icon" 
+    type="image/png" 
+    href="Picturess/Roblox.jpg">
+
+    <title> Document </title>
+</head>
+<body>
+
+    <!-- This Is Hyper Links -->
+
+    <a href="https://www.youtube.com/watch?v=ZOI7Tq5Zq2s&list=PLZPZq0r_RZOOxqHgOzPyCzIl4AJjXbCYt&index=2&pp=iAQB"
+    target="_blank"
+    title="Goes to bro code"> Click This if you want to learn hyperlinks </a>
+
+    <!-- This Is Images -->
+
+    <img src="Picturess/DAMN.jpg" alt="This is jinbei">
+ 
+    <!-- This Is Audio -->
+
+    <audio controls autoplay loop muted> 
+        <source src="Music/Batugan.mp3" type = "audio/mpeg"> 
+        <!-- Backup -->
+        <source src="Music/Batugan.mp3" type = "audio/wav"> 
+    </audio>
+
+    <!-- This Is Video -->
+    
+    <video controls autoplay loop muted> 
+        <source src="Video/bambol.mp4" type = "video/mp4"> 
+        <!-- Backup -->
+        <source src="Video/bambol.mp4" type = "video/webm"> 
+    </video>
+
+    <!-- This Is Text Formatting -->
+
+    <p> This is normal text </p>
+    <p> This is <b> bold </b> text </p>
+    <p> This is <i> italic </i> text </p>
+    <p> This is <u> underlined </u> text </p>
+    <p> This is <del> deleted </del> text </p>
+    <p> This is <big> big </big> text </p>
+    <p> This is <small> small </small> text </p>
+    <p> This is <sub> subscript </sub> text </p>
+    <p> This is <sup> superscript </sup> text </p>
+    <p> This is <tt> monospace </tt> text </p>
+    <p> This is <mark> markup </mark> text </p>
+
+    <br>
+    
+    <!-- This Is Span -->
+
+    <p><span style="background-color:aquamarine;"> This is span </span></p>
+
+    <!-- This Is Div -->
+    
+    <p><div style="background-color:aquamarine;"> This is span </div></p>
+
+    <!-- This Is Unordered list -->
+
+    <h1> Groceries </h1>
+
+    <ul>
+       <li> milk </li>
+       <li> eggs </li>
+       <li> bread </li>
+       <li> coffee supplies </li>
+       <!-- Nested List -->
+       <ul>
+        <li> coffee beans </li>
+        <li> sugar </li>
+        <li> creamer </li>
+       </ul>
+    </ul>
+ 
+     <!-- This Is Ordered list -->
+    
+    <h1> To do Lists </h1>
+
+    <ol>
+        <li> Take A Bath </li>
+        <li> Workout </li>
+        <li> Poop </li>
+    </ol>
+
+    <!-- This Is Description list -->
+
+    <dl>
+    <dt> Bomba </dt> <!-- Description Term -->
+    <dd> A person who smoke weeds </dd> <!-- Description Detail-->
+    <dt> Bomba </dt>
+    <dd> An object that explode </dd>
+    <dt> Atan </dt>
+    <dd> A person who gives condom to random persons </dd>
+    </dl>
+
+    <!-- This Is Table -->
+    
+    <table border = "1">
+        <tr>  <!-- This Is Table Row -->
+          <th width="200px">Monday</th> <!-- This Is Table Head -->
+          <th width="200px">Tuesday</th>
+          <th width="200px">Wednesday</th>
+          <th width="200px">Thursday</th>
+          <th width="200px">Friday</th>
+        </tr>
+        <tr align="center">
+          <td>Chest and Shoulders</td> <!-- This Is Table Detail -->
+          <td>Leg and Core</td>
+          <td>Back and Bicep</td>
+          <td>Rest</td>
+          <td>Back and Chest</td>
+        </tr>
+        <tr align="center">
+          <td>Chest and Shoulders</td>
+          <td>Leg and Core</td>
+          <td>Back and Bicep</td>
+          <td>Rest</td>
+          <td>Back and Chest</td>
+        </tr>
+        <tr align="center">
+          <td>Chest and Shoulders</td>
+          <td>Leg and Core</td>
+          <td>Back and Bicep</td>
+          <td>Rest</td>
+          <td>Back and Chest</td>
+        </tr>
+    </table>
+
+    <!-- This Is Button -->
+
+     <a href="https://www.youtube.com/watch?v=tDqTXipQmBU&list=PLZPZq0r_RZOOxqHgOzPyCzIl4AJjXbCYt&index=11"
+        target="_blank">
+    <button>Click me if you are disgrace on your whole ancestors</button>
+     </a>
+     |
+</body>
+
+</html>
